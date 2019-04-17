@@ -23,3 +23,8 @@ a {
 figcaption {
   font-size: 80%;
 }
+
+#featured-propery p {
+  width: 800px;
+  text-align: center;
+}
