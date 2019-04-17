@@ -3,3 +3,39 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+a {
+  padding: 10px;
+  background-color: grey;
+}
+
+figcaption {
+  font-size: 80%;
+}
+
+#featured-propery p {
+  width: 800px;
+  text-align: center;
+}
+
+#details {
+  display: block;
+  float: left;
+}
+
+#details div {
+  background-color: grey;
+  text-align: center;
+  width: 25%;
+}
